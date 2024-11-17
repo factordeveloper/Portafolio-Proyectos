@@ -1934,6 +1934,10 @@ input, select, textarea {
 					background-color: #b90505;
 				}
 
+				ul.social li a.fa-google-play{
+					background: linear-gradient(to right, #045ff2, #05f043, #f30303,  #f4b803 );
+				}
+
 				ul.social li a:hover {
 					top: -5px;
 				}
